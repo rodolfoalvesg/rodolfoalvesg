@@ -1,3 +1,6 @@
+<p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=rodolfoalvesg&show_icons=true&theme=react  "> </p>
+
+
 - 👋 Olá, é um prazer! Me chamo Rodolfo Alves.
 - Atualmente sou Aspirante a Desenvolvedor Full Stack Web pelo Alpha EdTech. 
 - Posso graduação em andamento na Área de Redes de Computadores. 
