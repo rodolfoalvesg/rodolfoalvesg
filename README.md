@@ -1,6 +1,3 @@
-<p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=rodolfoalvesg&show_icons=true&theme=react  "> </p>
-
-
 - 👋 Olá, é um prazer! Me chamo Rodolfo Alves.
 - Atualmente sou Aspirante a Desenvolvedor Full Stack Web pelo Alpha EdTech. 
 - Posso graduação em andamento na Área de Redes de Computadores. 
@@ -10,6 +7,7 @@
  
  - Principais Habilidades Softs Skils: 
   - Coletivividade, Resiliência e alta capacidade de aprendizado.
+  - <p align="center">    <img src="https://github-readme-stats.vercel.app/api?username=rodolfoalvesg&show_icons=true&theme=react  "> </p>
 <!---
 rodolfoalvesg/rodolfoalvesg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
