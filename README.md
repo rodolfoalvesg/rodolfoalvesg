@@ -3,7 +3,7 @@
 <p><em>Golang Intern at Stone</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Rodolfo Alves](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoalvesg/)](https://www.linkedin.com/in/anmol-p-singh/)
+[![Linkedin: Rodolfo Alves](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoalvesg/)](https://www.linkedin.com/in/rodolfoalvesg/)
 ![](https://visitor-badge.glitch.me/badge?page_id=rodolfoalvesg.rodolfoalvesg)
 
 
@@ -11,7 +11,7 @@
 const rodolfo = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Golang", "Python", "PHP"],
-    learning: ["Golang", "ReactJS", "Typescript", "MongoDB"]
+    learning: ["Golang", "ReactJS", "Typescript", "MongoDB"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
