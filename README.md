@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Rodolfo Alves](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoalvesg/)](https://www.linkedin.com/in/anmol-p-singh/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![](https://visitor-badge.glitch.me/badge?page_id=rodolfoalvesg.rodolfoalvesg)
 
 
 ```javascript
@@ -28,8 +28,4 @@ const anmol = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
