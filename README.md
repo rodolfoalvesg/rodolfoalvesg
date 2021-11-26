@@ -1,6 +1,6 @@
 <h2>🙏🏻, I'm Rodolfo Alves! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Intern at <a href="https://pkg.go.dev/">Golang</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Golang Intern at Stone</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Rodolfo Alves](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoalvesg/)](https://www.linkedin.com/in/anmol-p-singh/)
@@ -8,24 +8,19 @@
 
 
 ```javascript
-const anmol = {
+const rodolfo = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Golang", "Python", "PHP"],
+    learning: ["Golang", "ReactJS", "Typescript", "MongoDB"]
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        front:["HTML5","CSS3", "SCSS", "JQuery", "JavaScript],
+        devOps: ["Nginx", "Apache"],
+        databases: ["MySql", "PostgreSql", "MySQL Workbench"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "I love technology and teaching"
 };
 ```
 
