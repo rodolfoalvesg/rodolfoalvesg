@@ -40,5 +40,14 @@ const rodolfo = {
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rodolfoalvesg&count_private=true&show_icons=true&include_all_commits=true)
+<div align="center">
+  <a href="https://github.com/rodolfoalvesg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfoalvesg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoalvesg&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+<div>
+    
+  ![Snake animation](https://github.com/rodolfoalvesg/rodolfoalvesg/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
