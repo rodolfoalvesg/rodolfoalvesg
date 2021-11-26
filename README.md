@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>(Rodolfo Alves)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -40,85 +40,6 @@ const anmol = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-922-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 144 Contributions in the Year 2021
- > 
-> 📦 158.2 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 20 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-🌆 Daytime    146 commits    █████████░░░░░░░░░░░░░░░░   39.04% 
-🌃 Evening    121 commits    ████████░░░░░░░░░░░░░░░░░   32.35% 
-🌙 Night      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
-Wednesday    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
-Thursday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Saturday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-Sunday       95 commits     ██████░░░░░░░░░░░░░░░░░░░   25.4%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               15 hrs 49 mins      █████████████░░░░░░░░░░░░   52.08% 
-XML                      5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
-Java                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Markdown                 1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-JSON                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
-
-🔥 Editors: 
-WebStorm                 16 hrs 34 mins      █████████████░░░░░░░░░░░░   54.55% 
-Android Studio           8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.54% 
-PyCharm                  4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-DataGrip                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
-
-💻 Operating System: 
-Mac                      29 hrs 58 mins      ████████████████████████░   98.6% 
-Windows                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51% 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
-
-```
-
 
 **Timeline**
 
