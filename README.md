@@ -10,8 +10,8 @@
 ```javascript
 const rodolfo = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Golang", "Python", "PHP"],
-    learning: ["Golang", "ReactJS", "Typescript", "MongoDB"],
+    code: ["Javascript", "Golang"],
+    learning: ["Golang", "ReactJS", "MongoDB", "Java"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
