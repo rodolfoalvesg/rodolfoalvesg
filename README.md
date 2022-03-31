@@ -1,6 +1,6 @@
 <h2>🙏🏻, I'm Rodolfo Alves! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://gophercises.com/img/gophercises_jumping.gif" width="230">
-<p><em>Golang Intern at Stone</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Golang Developer at Stone</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Rodolfo Alves](https://img.shields.io/badge/-rodolfo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoalvesg/)](https://www.linkedin.com/in/rodolfoalvesg/)
