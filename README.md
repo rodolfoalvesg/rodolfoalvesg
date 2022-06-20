@@ -11,13 +11,13 @@
 const rodolfo = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Golang"],
-    learning: ["Golang", "ReactJS", "MongoDB", "Java"],
+    learning: ["Golang", "MongoDB"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
-        front:["HTML5","CSS3", "SCSS", "JQuery", "JavaScript],
-        devOps: ["Nginx", "Apache"],
+        front:["HTML5","CSS3", "SCSS", "JQuery", "JavaScript","React JS"],
+        devOps: ["Nginx", "Apache", "Docker"],
         databases: ["MySql", "PostgreSql", "MySQL Workbench"]
     },
     funFact: "I love technology and teaching"
